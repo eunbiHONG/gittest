@@ -12,5 +12,6 @@
 // 작업 >>commit>> git >>push>> 미국git >>pull>> 가져오기
 // 작업하고 나서 가져와야함
 %>
+    <h2>update</h2>
 </body>
 </html>
