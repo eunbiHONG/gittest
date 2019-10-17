@@ -13,5 +13,6 @@
 // 작업하고 나서 가져와야함
 %>
     <h2>update</h2>
+    <h3>github_update2</h3>
 </body>
 </html>
